@@ -4,143 +4,188 @@
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615674010,
-		"every": 90
+		"lastAttack": 1595761972034,
+		"every": 90,
+		"lastRamAttack": 1595745993408
 	},
 	"529|563": {
 		"coords": "529|563",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615678687,
-		"every": 90
+		"lastAttack": 1595762336785,
+		"every": 90,
+		"lastRamAttack": 1595746001880
 	},
 	"529|561": {
 		"coords": "529|561",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615684301,
-		"every": 90
+		"lastAttack": 1595762341289,
+		"every": 90,
+		"lastRamAttack": 1595746008247
 	},
 	"531|563": {
 		"coords": "531|563",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615688912,
-		"every": 90
+		"lastAttack": 1595762471281,
+		"every": 90,
+		"lastRamAttack": 1595746015275
 	},
 	"529|569": {
 		"coords": "529|569",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615693632,
-		"every": 90
+		"lastAttack": 1595763065255,
+		"every": 90,
+		"lastRamAttack": 1595746023734
 	},
 	"522|569": {
 		"coords": "522|569",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615698267,
-		"every": 90
+		"lastAttack": 1595763073025,
+		"every": 90,
+		"lastRamAttack": 1595746030949
 	},
 	"525|571": {
 		"coords": "525|571",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615702951,
-		"every": 90
+		"lastAttack": 1595763079938,
+		"every": 90,
+		"lastRamAttack": 1595746037840
 	},
 	"540|563": {
 		"coords": "540|563",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615707689,
-		"every": 90
+		"lastAttack": 1595763087530,
+		"every": 90,
+		"lastRamAttack": 1595746044891
 	},
 	"512|558": {
 		"coords": "512|558",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615712398,
-		"every": 90
+		"lastAttack": 1595763199265,
+		"every": 90,
+		"lastRamAttack": 1595746051879
 	},
 	"514|559": {
 		"coords": "514|559",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 30,
-		"lastAttack": 1595615717065,
-		"every": 90
+		"lastAttack": 1595763520409,
+		"every": 90,
+		"lastRamAttack": 1595746058866
 	},
 	"524|573": {
 		"coords": "524|573",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615721971,
-		"every": 90
+		"lastAttack": 1595763512226,
+		"every": 90,
+		"lastRamAttack": 1595746066300
 	},
 	"518|573": {
 		"coords": "518|573",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615726613,
-		"every": 90
+		"lastAttack": 1595763528133,
+		"every": 90,
+		"lastRamAttack": 1595746073709
 	},
 	"519|556": {
 		"coords": "519|556",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615731358,
-		"every": 90
+		"lastAttack": 1595763534853,
+		"every": 90,
+		"lastRamAttack": 1595746080793
 	},
 	"521|546": {
 		"coords": "521|546",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615735868,
-		"every": 90
+		"lastAttack": 1595763542318,
+		"every": 90,
+		"lastRamAttack": 1595746086789
 	},
 	"530|563": {
 		"coords": "530|563",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615741550,
-		"every": 90
+		"lastAttack": 1595763550336,
+		"every": 90,
+		"lastRamAttack": 1595746092932
 	},
 	"518|555": {
 		"coords": "518|555",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615746250,
-		"every": 90
+		"lastAttack": 1595757284242,
+		"every": 90,
+		"lastRamAttack": 1595746098935
 	},
 	"520|566": {
 		"coords": "520|566",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615750923,
-		"every": 90
+		"lastAttack": 1595757929250,
+		"every": 90,
+		"lastRamAttack": 1595746107570
 	},
-	"518|557": {
-		"coords": "518|557",
+	"527|570": {
+		"coords": "527|570",
 		"points": 65,
 		"wall": 0,
 		"cavalry": 18,
-		"lastAttack": 1595615755827,
-		"every": 90
+		"lastAttack": 1595758103246,
+		"every": 90,
+		"lastRamAttack": 1595746116452
+	},
+	"522|565": {
+		"coords": "522|565",
+		"points": 65,
+		"wall": 0,
+		"cavalry": 18,
+		"lastAttack": 1595758385220,
+		"every": 90,
+		"lastRamAttack": 1595750536235
+	},
+	"533|547": {
+		"coords": "533|547",
+		"points": 65,
+		"wall": 0,
+		"cavalry": 18,
+		"lastAttack": 1595759504257,
+		"every": 90,
+		"lastRamAttack": 1595754896240
+	},
+	"528|560": {
+		"coords": "528|560",
+		"points": 65,
+		"wall": 0,
+		"cavalry": 18,
+		"lastAttack": 1595759531493,
+		"every": 90,
+		"lastRamAttack": 1595756847132
 	}
 }
