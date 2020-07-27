@@ -1,0 +1,28 @@
+// ==UserScript==
+// @name         Auto finish free
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://es63.guerrastribales.es/game.php?village=4461&screen=main
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const waitingTime = 5000;
+
+    const run = () => {
+        console.log('Start run', new Date());
+        const freeInstantButton = document.querySelector('a:not([style="display: none"]).order_feature.btn.btn-btr.btn-instant');
+
+        if (freeInstantButton) {
+            freeInstantButton.click();
+        }
+
+        setTimeout(run, waitingTime)
+    }
+
+    run();
+})();
